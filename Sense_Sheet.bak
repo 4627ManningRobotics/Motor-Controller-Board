@@ -1,0 +1,191 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Motor Controller-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+NoConn ~ 3000 2300
+NoConn ~ 3000 3350
+NoConn ~ 2450 4500
+NoConn ~ 2950 4300
+NoConn ~ 2450 4100
+NoConn ~ 1500 4550
+NoConn ~ 2000 4350
+NoConn ~ 1500 4150
+NoConn ~ 2500 3550
+NoConn ~ 2500 3150
+NoConn ~ 1500 3500
+NoConn ~ 2000 3300
+NoConn ~ 1500 3100
+NoConn ~ 2500 2500
+NoConn ~ 2500 2100
+NoConn ~ 1450 2500
+NoConn ~ 1950 2300
+NoConn ~ 1450 2100
+NoConn ~ 2450 1500
+NoConn ~ 2950 1300
+NoConn ~ 2450 1100
+NoConn ~ 1450 1500
+NoConn ~ 1950 1300
+NoConn ~ 1450 1100
+$Comp
+L CONN_02X05 P?
+U 1 1 583FC9CF
+P 2700 4300
+F 0 "P?" H 2700 4600 50  0000 C CNN
+F 1 "Sense_8" H 2700 4000 50  0000 C CNN
+F 2 "" H 2700 3100 50  0000 C CNN
+F 3 "" H 2700 3100 50  0000 C CNN
+	1    2700 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_02X05 P?
+U 1 1 583FC9D6
+P 1750 4350
+F 0 "P?" H 1750 4650 50  0000 C CNN
+F 1 "Sense_7" H 1750 4050 50  0000 C CNN
+F 2 "" H 1750 3150 50  0000 C CNN
+F 3 "" H 1750 3150 50  0000 C CNN
+	1    1750 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_02X05 P?
+U 1 1 583FC9DD
+P 2750 3350
+F 0 "P?" H 2750 3650 50  0000 C CNN
+F 1 "Sense_6" H 2750 3050 50  0000 C CNN
+F 2 "" H 2750 2150 50  0000 C CNN
+F 3 "" H 2750 2150 50  0000 C CNN
+	1    2750 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_02X05 P?
+U 1 1 583FC9E4
+P 1750 3300
+F 0 "P?" H 1750 3600 50  0000 C CNN
+F 1 "Sense_5" H 1750 3000 50  0000 C CNN
+F 2 "" H 1750 2100 50  0000 C CNN
+F 3 "" H 1750 2100 50  0000 C CNN
+	1    1750 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_02X05 P?
+U 1 1 583FC9EB
+P 2750 2300
+F 0 "P?" H 2750 2600 50  0000 C CNN
+F 1 "Sense_4" H 2750 2000 50  0000 C CNN
+F 2 "" H 2750 1100 50  0000 C CNN
+F 3 "" H 2750 1100 50  0000 C CNN
+	1    2750 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_02X05 P?
+U 1 1 583FC9F2
+P 1700 2300
+F 0 "P?" H 1700 2600 50  0000 C CNN
+F 1 "Sense_3" H 1700 2000 50  0000 C CNN
+F 2 "" H 1700 1100 50  0000 C CNN
+F 3 "" H 1700 1100 50  0000 C CNN
+	1    1700 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_02X05 P?
+U 1 1 583FC9F9
+P 2700 1300
+F 0 "P?" H 2700 1600 50  0000 C CNN
+F 1 "Sense_2" H 2700 1000 50  0000 C CNN
+F 2 "" H 2700 100 50  0000 C CNN
+F 3 "" H 2700 100 50  0000 C CNN
+	1    2700 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_02X05 P?
+U 1 1 583FCA00
+P 1700 1300
+F 0 "P?" H 1700 1600 50  0000 C CNN
+F 1 "Sense_1" H 1700 1000 50  0000 C CNN
+F 2 "" H 1700 100 50  0000 C CNN
+F 3 "" H 1700 100 50  0000 C CNN
+	1    1700 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X24 P?
+U 1 1 583FD954
+P 7750 4100
+F 0 "P?" H 7750 5350 50  0000 C CNN
+F 1 "CONN_01X24" V 7850 4100 50  0000 C CNN
+F 2 "" H 7750 4100 50  0000 C CNN
+F 3 "" H 7750 4100 50  0000 C CNN
+	1    7750 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X24 P?
+U 1 1 583FD9D0
+P 5950 1800
+F 0 "P?" H 5950 3050 50  0000 C CNN
+F 1 "CONN_01X24" V 6050 1800 50  0000 C CNN
+F 2 "" H 5950 1800 50  0000 C CNN
+F 3 "" H 5950 1800 50  0000 C CNN
+	1    5950 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X24 P?
+U 1 1 583FDAB2
+P 5850 6450
+F 0 "P?" H 5850 7700 50  0000 C CNN
+F 1 "CONN_01X24" V 5950 6450 50  0000 C CNN
+F 2 "" H 5850 6450 50  0000 C CNN
+F 3 "" H 5850 6450 50  0000 C CNN
+	1    5850 6450
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
